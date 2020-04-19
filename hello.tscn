@@ -7,3 +7,24 @@ text = "Hello world"
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="Label2" type="Label" parent="."]
+margin_left = 224.0
+margin_top = 109.0
+margin_right = 342.0
+margin_bottom = 123.0
+rect_rotation = 0.0512427
+text = "some other text"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 435.0
+margin_top = 71.0
+margin_right = 545.0
+margin_bottom = 85.0
+text = "some more tesxt"
+__meta__ = {
+"_edit_use_anchors_": false
+}
